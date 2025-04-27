@@ -26,7 +26,7 @@ Through this project, I practiced:
 
 ## Project Structure
 
-- `CatPhotoApp.html` - The main HTML document containing all the page content
+- `index.html` - The main HTML document containing all the page content
 
 ## Features
 
